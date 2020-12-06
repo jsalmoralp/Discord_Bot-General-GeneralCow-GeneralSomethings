@@ -1,0 +1,23 @@
+{
+  "name": "Discord_Bot-General-GeneralCow-GeneralSomethings",
+  "version": "1.0.0",
+  "description": "Bot de Discord para cosas Generales.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsalmoralp/Discord_Bot-General-GeneralCow-GeneralSomethings.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsalmoralp/Discord_Bot-General-GeneralCow-GeneralSomethings/issues"
+  },
+  "homepage": "https://github.com/jsalmoralp/Discord_Bot-General-GeneralCow-GeneralSomethings#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
