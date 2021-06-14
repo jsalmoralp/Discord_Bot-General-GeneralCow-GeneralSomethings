@@ -1,0 +1,7 @@
+// Iniciar Bot de Node (Discord Bot)
+/// normal
+node servidor.js
+
+/// instalar como componente de desarrollo "nodemon"
+/// se reinicia al guardar de nuevo el "servidor.js"
+npx nodemon servidor.js
